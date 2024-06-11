@@ -19,4 +19,5 @@ Contributions to the `ApplianceElectricBillCalculator` project are welcome. Plea
 
 ## Contact
 Christian Dave Vilan - itschristiandavevilanofficial@gmail.com
+
 Project Link: https://github.com/MrNobody1217/ApplianceElectricBillCalculator
